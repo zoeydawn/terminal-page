@@ -11,7 +11,7 @@ Zoey Dawn Moore <br />
 Full Stack Developer. Space Cowgirl. Coding Ninja <br /><br />
 email: <a href="mailto:contact@zoey.ninja">contact@zoey.ninja</a> <br />
 GitHub: <a target="_blank" href="https://github.com/zoeydawn">zoeydawn</a> <br />
-Twitter: <a target="_blank" href="https://twitter.com/nerdy_zoey">@nerdy_zoey</a> <br />
+Mastodon: <a target="_blank" href="https://tech.lgbt/@zoeydawn">@zoeydawn@tech.lgbt</a> <br />
 Instagram: <a target="_blank" href="https://www.instagram.com/spacecowgirlgringa/">@spacecowgirlgringa</a> <br />
 Home page: <a href="#">zoey.ninja</a> <br />
 <a href="/pgp.html">PGP Public Key</a> 
